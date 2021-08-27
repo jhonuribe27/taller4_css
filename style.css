@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Formulario {
+    width: 500px;
+    background: #0a5180;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    font-family: Helvetica;
+    color: aliceblue;
+}
+
+.Formulario h4{
+    font-size: 25px;
+    margin-bottom: 25px;
+    background: rgb(6, 36, 75);
+}
+
+.Formulario .boton {
+    width: 100%;
+    background: #2489cc ;
+    border: none;
+    padding: 12px;
+    color: white;
+}
