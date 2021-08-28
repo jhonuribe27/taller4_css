@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carid h4{
+    font-size: 25px;
+    margin-bottom: 25px;
+    background: rgb(240, 25, 25);
+}
+.carid {
+    width: 500px;
+    background: #eb8a8a;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    font-family: Helvetica;
+    color: rgb(77, 33, 199);
+}
