@@ -27,3 +27,14 @@
     padding: 12px;
     color: white;
 }
+
+#fb {
+    width: 500px;
+    background: #0a5180;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Helvetica;
+    color: aliceblue;
+    border-radius: 8px;
+}
