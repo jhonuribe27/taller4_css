@@ -48,3 +48,15 @@
     color: aliceblue;
     border-radius: 8px;
 }
+ 
+#fn
+{
+    width: 500px;
+    background: #9c0202;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Helvetica;
+    color: aliceblue;
+    border-radius: 8px;
+}
