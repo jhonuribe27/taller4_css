@@ -28,15 +28,14 @@
     color: white;
 }
 
-#fb {
+#fb{
     width: 500px;
     background: #0a5180;
     padding: 30px;
     margin: auto;
-    margin-top: 50px;
-    font-family: Helvetica;
+    margin-top: 70px;
     color: aliceblue;
-    border-radius: 8px;
+    border-radius: 8px ;
 }
 
 #fm{
