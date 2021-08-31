@@ -48,8 +48,7 @@
     font-family: fantasy;
     font-size: x-large;
 }
-
-TD
- {
-     background: #b5ee1a;
- }
+#btnsiguiente{
+    margin-left: 220px;
+    margin-top: 20px;
+}
