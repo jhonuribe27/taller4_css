@@ -49,6 +49,10 @@
     font-size: x-large;
 }
 #btnsiguiente{
-    margin-left: 220px;
+    margin-left: 710px;
     margin-top: 20px;
+}
+
+textarea{
+    background: #b5ee1a;
 }
