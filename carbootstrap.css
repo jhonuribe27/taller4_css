@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 500px;
+    background: #0a5180;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    font-family: Helvetica;
+    color: aliceblue;
+}
+button{
+    margin-left: 300px;
+}
